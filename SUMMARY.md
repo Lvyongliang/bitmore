@@ -1,9 +1,9 @@
 # Table of contents
 
 * Exchange  API  course
-* [火币网 API course](huo-bi-wang-api-course.md)
-* [OKEX API course](okex-api-course.md)
-* [币安 API course](binance-api-course.md)
+* [火币网 API course](huobipro.md)
+* [OKEX API course](okex.md)
+* [币安 API course](binance.md)
 * [HitBTC  API course](hitbtc-api-coursr.md)
 * [BitHumb  API course](bithumb-api-coursr.md)
 * [QUOINEX  API course](quinex-api-coursr.md)
